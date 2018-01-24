@@ -20,6 +20,7 @@
     NSLog(@"Some Changes");
     NSLog(@"Another Changes");
     NSLog(@"Final Changes");
+    NSLog(@"Last Changes");
 
     return YES;
 }
